@@ -2,6 +2,7 @@
     display: none;
 }
 
-form {
-    color: blue;
+body{
+    background-color: bisque;
+    font-family: 'Times New Roman', Times, serif;
 }

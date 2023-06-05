@@ -27,6 +27,7 @@ This is a a browser application created for people who are interested in coding 
 ## License
 
 MIT
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 Copyright (c) 2023 Elle Hailu
 
