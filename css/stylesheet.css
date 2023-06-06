@@ -4,5 +4,10 @@
 
 body{
     background-color: bisque;
-    font-family: 'Times New Roman', Times, serif;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    margin: 5%;
+    padding: 5%;
+    border: 1rem solid;
+    border-radius: 5%;
+    border-color: black;
 }

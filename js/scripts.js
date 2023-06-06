@@ -3,7 +3,6 @@ window.onload = function () {
     form.onsubmit = function (event) {
         event.preventDefault();
 
-    
         let age1 = document.getElementById("age1");
         let age2 = document.getElementById("age2");
         let age3 = document.getElementById("age3");
@@ -35,6 +34,7 @@ window.onload = function () {
 
         let noRecDiv = document.getElementById("noRec");
         noRecDiv.setAttribute("class", "hidden");
+
 
 
         if (age1.checked && experience2.checked && color1.checked && time3.checked && hobby1.checked) {
