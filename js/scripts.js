@@ -3,7 +3,6 @@ window.onload = function () {
     form.onsubmit = function (event) {
         event.preventDefault();
 
-        form.reset();
         let age1 = document.getElementById("age1");
         let age2 = document.getElementById("age2");
         let age3 = document.getElementById("age3");
@@ -52,5 +51,6 @@ window.onload = function () {
         else {
             noRecDiv.removeAttribute("class");
         }
+        form.reset();
     }
 }
