@@ -39,15 +39,12 @@ window.onload = function () {
         if (age1.checked && experience2.checked && color1.checked && time3.checked && hobby1.checked) {
             pythonDiv.removeAttribute("class");
         }
-    
         else if (age2.checked && experience1.checked && color3.checked && time2.checked && hobby2.checked) {
             javaScriptDiv.removeAttribute("class");
         }
-
         else if (age3.checked && experience3.checked && color2.checked && time1.checked && hobby3.checked) {
             rDiv.removeAttribute("class");
         }
-
         else {
             noRecDiv.removeAttribute("class");
         }
